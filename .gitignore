@@ -6,3 +6,4 @@
 .quarto
 .configuration
 *.yaml
+config.yaml
